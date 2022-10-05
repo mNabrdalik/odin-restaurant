@@ -11,22 +11,22 @@ export default function createMenu() {
         {
             name: 'Menu',
             desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae minus maxime inventore quasi quas ex, delectus nemo earum illum quos explicabo magni rerum tenetur voluptas laudantium pariatur molestiae enim qui aspernatur assumenda quaerat amet nobis!',
-            imgLink: '../src/img/tamas-pap-68Vb4Mj-L9c-unsplash.jpg'
+            imgLink: 'img/tamas-pap-68Vb4Mj-L9c-unsplash.jpg'
         },
         {
             name: 'Food1',
             desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae minus maxime inventore quasi quas ex, delectus nemo earum illum quos explicabo magni rerum tenetur voluptas laudantium pariatur molestiae enim qui aspernatur assumenda quaerat amet nobis!',
-            imgLink: '../src/img/mahmoud-fawzy-c4zyDtK9h_g-unsplash.jpg'
+            imgLink: 'img/mahmoud-fawzy-c4zyDtK9h_g-unsplash.jpg'
         },
         {
             name: 'Food2',
             desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae minus maxime inventore quasi quas ex, delectus nemo earum illum quos explicabo magni rerum tenetur voluptas laudantium pariatur molestiae enim qui aspernatur assumenda quaerat amet nobis!',
-            imgLink: '../src/img/derek-duran-Jz4QMhLvGgw-unsplash.jpg'
+            imgLink: 'img/derek-duran-Jz4QMhLvGgw-unsplash.jpg'
         },
         {
             name: 'Food3',
             desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae minus maxime inventore quasi quas ex, delectus nemo earum illum quos explicabo magni rerum tenetur voluptas laudantium pariatur molestiae enim qui aspernatur assumenda quaerat amet nobis!',
-            imgLink: '../src/img/mahmoud-fawzy-Dbx6-XZY6Dg-unsplash.jpg'
+            imgLink: 'img/mahmoud-fawzy-Dbx6-XZY6Dg-unsplash.jpg'
         },
     ]
 

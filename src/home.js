@@ -22,12 +22,12 @@ export default function createHome() {
                         </div>
                         <div class="col-md-6">
                             <div class="home__img1">
-                                <img style="object-position: bottom;" src="../src/img/max-griss-dqulzxRF31M-unsplash.jpg" alt="start img" loading="lazy">
+                                <img style="object-position: bottom;" src="img/max-griss-dqulzxRF31M-unsplash.jpg" alt="start img" loading="lazy">
                             </div>
                         </div>`;
 
     row2.innerHTML += `<div class="col-9 home__img2">
-                        <img src="../src/img/daniel-gregoire-ahUr5E7cVxE-unsplash.jpg" alt="start img" loading="lazy">
+                        <img src="img/daniel-gregoire-ahUr5E7cVxE-unsplash.jpg" alt="start img" loading="lazy">
                         </div><div class="col-3 home__color"></div>`;
 
     homeSection.appendChild(containerFluid);    
